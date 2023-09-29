@@ -1,0 +1,9 @@
+leftnav:
+- identifier: external-874025132-1656446990695
+  name: Project Website
+  url: https://nuclearweaponsedproj.mit.edu/about
+  weight: 10
+- identifier: ae309b3f-16cb-4892-8c5f-b11992341d49
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
